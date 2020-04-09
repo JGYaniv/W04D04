@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+}
+​
+h1 {
+    font-size: 38px;
+}
+​
+h2 {
+    font-size: 32px;
+}
+​
+.ingredients-list {
+    list-style: square;
+    padding: 0 0 0 20px;
+}
+​
+ol {
+    list-style: georgian;
+    padding: 0 0 0 20px;
+}
+
+header > img {
+    width: 100px;
+}
+
+ul > li > a {
+    text-decoration: none;
+    color: inherit;
+}
+
+body {
+    background-color: mintcream;
+}
+
+.user_review {
+    background-color: red;
+}
